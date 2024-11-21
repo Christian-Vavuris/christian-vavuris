@@ -1,0 +1,23 @@
+
+body {
+    background-image: url("Parchment_Background.jpg");
+    width: 100%;
+    height: auto;
+   
+  }
+
+h1{ font-family: "Quintessential", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+h2{ font-family: "Quintessential", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+
+ol{font-family: "Quintessential", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
